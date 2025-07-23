@@ -23,7 +23,7 @@
 | Resolution Time       | Number    | —                                                | Time taken to resolve the case      |
 | Customer Satisfaction | Picklist  | Very Satisfied, Satisfied, Neutral, Dissatisfied | Customer feedback on resolution     |
 
-📸 Figure 1:![Screenshot of Case Object → Fields & Relationships](screenshots/Objects.png)
+📸 Figure 1:![Case Object](screenshots/Objects.png)
 
 
 ## 🏗️ 3. Support Process Setup
@@ -52,7 +52,7 @@
 - Support Process: Standard Support Process
 - Page Layout: SMB Layout
 
-📸 **Figure 4:** Screenshot of Record Type list
+📸 **Figure 4: ![Record Type](screenshots/Record Type.png)
 
 ---
 
