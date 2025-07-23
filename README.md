@@ -23,9 +23,8 @@
 | Resolution Time       | Number    | —                                                | Time taken to resolve the case      |
 | Customer Satisfaction | Picklist  | Very Satisfied, Satisfied, Neutral, Dissatisfied | Customer feedback on resolution     |
 
-📸 **Figure 1:** Screenshot of Case Object → Fields & Relationships
+📸 Figure 1:![Screenshot of Case Object → Fields & Relationships](screenshots/Objects.png)
 
----
 
 ## 🏗️ 3. Support Process Setup
 
