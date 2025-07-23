@@ -52,7 +52,7 @@
 - Support Process: Standard Support Process
 - Page Layout: SMB Layout
 
-📸 **Figure 4: ![Record Type](screenshots/Record Type.png)
+📸 **Figure 4: ![Record Type](screenshots/Record-Type.png)
 
 ---
 
